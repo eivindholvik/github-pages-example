@@ -2,7 +2,7 @@ node_ modules/
 .github/
 
 .babelrc
-.eslintrc.js
+.eslintrc.cjs
 .gitignore
 .prettierrc
 
